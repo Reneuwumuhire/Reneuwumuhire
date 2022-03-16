@@ -1,5 +1,3 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/Reneuwumuhire/Reneuwumuhire/readme_header.png "Header")](https://reneuwumuhire.github.io/)
-
 - # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 - 👀 I’m interested in ReactJS, UI/UX Designs,
 - 🌱 I’m currently learning VueJs
