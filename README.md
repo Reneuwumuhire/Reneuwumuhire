@@ -1,6 +1,7 @@
 [![Header](https://raw.githubusercontent.com/MartinHeinz/<Reneuwumuhire>/<Reneuwumuhire>/readme_header.png "Header")](https://reneuwumuhore.github.io/)
 
-- 👋 Hi, I’m @Reneuwumuhire
+- # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+ Hi, I’m @Reneuwumuhire
 - 👀 I’m interested in ReactJS, UI/UX Designs,
 - 🌱 I’m currently learning VueJs
 - 💞️ I’m looking to collaborate on any project with stated skills above
