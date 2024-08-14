@@ -5,6 +5,8 @@
 ### Email: **reneuwumuhire@gmail.com** 
 ### Tel: **+250788804581** 
 ### [LinkedIn](https://www.linkedin.com/in/reneuwumuhire/) [GitHub](https://github.com/Reneuwumuhire/) 
+
+<a href="https://app.daily.dev/uwumuhirerene"><img src="https://api.daily.dev/devcards/v2/kiAt1KD4YIpgDspgt1Zpj.png?r=di1&type=wide" width="652" alt="Uwumuhire Rene's Dev Card"/></a>
 ### My Skills 
 ![My Skills](https://skillicons.dev/icons?i=js,ts,tailwind,react,next,git,github,)
 
