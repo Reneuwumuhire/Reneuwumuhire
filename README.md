@@ -1,8 +1,8 @@
 <img src="public/Rene-uwumuhire.png" alt="Banner Image" width=1000 >
 
-### I am a frontend Developer, I build nice web apps :)
-### Feel free to contact me. 
-### Email: **reneuwumuhire@gmail.com** 
+### I am a Software Developer
+### I am based in Rwanda
+### **reneuwumuhire@gmail.com** 
 ### Tel: **+250788804581** 
 ### [LinkedIn](https://www.linkedin.com/in/reneuwumuhire/) [GitHub](https://github.com/Reneuwumuhire/) 
 
